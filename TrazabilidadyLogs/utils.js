@@ -20,8 +20,11 @@ const logger = require ('pino')({
     ])
 );
 
-// exporto ID unico para trazabilidad 
-exports.traceID = traceIDgenerator;
+// exporto ID unico para trazabilidad, ejemplo -> exports.traceID = traceIDgenerator;
+// Genera un nuevo ID cada vez que se llama la funcion en otros archivos
+exports.traceIDgenerator = () => {
+    return uuidv4();
+};
 // exporto logger con nombre logger para uso global
 exports.logger = logger;
 
