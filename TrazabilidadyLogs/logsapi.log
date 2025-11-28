@@ -1,0 +1,28 @@
+{"level":30,"time":1764266905135,"pid":14516,"hostname":"Marietta","msg":"Logger inicializado correctamente"}
+{"level":30,"time":1764266985495,"pid":13740,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo3e2f6e22-f8ea-426a-9100-ec2b20442c4f"}
+{"level":30,"time":1764272822918,"pid":11676,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo 60032235-8d08-44fe-8e07-14a21571286c"}
+{"level":30,"time":1764272842452,"pid":25928,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo b90714c4-5cf4-401c-b060-8b0980731838"}
+{"level":30,"time":1764274835704,"pid":20040,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo 7b310b2c-6701-41d2-bb33-a6b174a1daa4"}
+{"level":"info" ,"time": "2025-11-27T20:43:23.001Z" ,"pid":2740,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo e7d926ed-368c-4337-a06b-af97880397d6"}
+{"level":"info" ,"time": "2025-11-27T20:47:44.752Z" ,"pid":14136,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo aea44baa-47e9-461b-b4c8-b286e7d43727"}
+{"level":"info" ,"time": "2025-11-27T20:51:14.210Z" ,"pid":15912,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo 55095899-1334-4531-8e01-ec8a831fbd9f"}
+{"level":"info" ,"time": "2025-11-27T20:51:19.392Z" ,"pid":5472,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo 83bde4cf-2ea5-4944-bc8e-a9fafe9c059a"}
+{"level":"info" ,"time": "2025-11-27T20:54:37.829Z" ,"pid":14736,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo 70fe9086-22bd-491c-b8d2-e14cd55f6830"}
+{"level":"info" ,"time": "2025-11-27T20:54:37.830Z" ,"pid":14736,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo [object Pino]"}
+{"level":"info" ,"time": "2025-11-27T20:57:00.272Z" ,"pid":1600,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo 88dd02a7-4cd6-4abd-9b83-b411ff06d50f"}
+{"level":"info" ,"time": "2025-11-27T20:57:00.273Z" ,"pid":1600,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo () =>{\r\n    console.log(\"test ID generado:\"+ uuidv4());\r\n    return uuidv4();\r\n}"}
+{"level":"info" ,"time": "2025-11-27T20:57:15.114Z" ,"pid":21560,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo 64ee4544-a217-4663-bee4-3a65852ab66a"}
+{"level":"info" ,"time": "2025-11-27T20:57:15.115Z" ,"pid":21560,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo f6ef0809-53a3-4bba-9e10-192ff8be1932"}
+{"level":"info" ,"time": "2025-11-27T21:03:06.730Z" ,"pid":5168,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo c90e5071-998e-4a7e-87de-1611ec1bba43"}
+{"level":"info" ,"time": "2025-11-27T21:03:06.731Z" ,"pid":5168,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo undefined"}
+{"level":"info" ,"time": "2025-11-27T21:11:46.787Z" ,"pid":9492,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo [object Object]"}
+{"level":"info" ,"time": "2025-11-27T21:12:00.271Z" ,"pid":13052,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo 74ef32bd-ba82-4ee3-bfb9-a56042af61cb"}
+{"level":"info" ,"time": "2025-11-27T21:13:21.196Z" ,"pid":8416,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo 9d67a4d6-b963-4300-9b44-63d9ce57a2f0"}
+{"level":"info" ,"time": "2025-11-27T21:13:21.197Z" ,"pid":8416,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo 72f18923-ae72-4131-a781-f3eded68ad62"}
+{"level":"info" ,"time": "2025-11-27T21:14:06.639Z" ,"pid":23988,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo 0054b463-3775-40e7-8296-44e2888e182c"}
+{"level":"info" ,"time": "2025-11-27T21:14:06.641Z" ,"pid":23988,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo 84ed73d1-107f-46d6-a3c4-786ae4d14afe"}
+{"level":"info" ,"time": "2025-11-27T21:23:55.132Z" ,"pid":25928,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo 23c63e4d-c15d-4798-8ce1-27d54867b5ad Componente utils.js"}
+{"level":"info" ,"time": "2025-11-27T21:26:38.895Z" ,"pid":11792,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo 847a5a04-7946-4779-91e5-560fb2dff3d8 Componente utils.js"}
+{"level":"info" ,"time": "2025-11-27T21:26:38.896Z" ,"pid":11792,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo 847a5a04-7946-4779-91e5-560fb2dff3d8"}
+{"level":"info" ,"time": "2025-11-27T21:29:08.287Z" ,"pid":9172,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo f750bf02-b729-4403-aded-e653ddef5385 Componente utils.js"}
+{"level":"info" ,"time": "2025-11-27T21:29:08.288Z" ,"pid":9172,"hostname":"Marietta","msg":"Logger inicializado correctamente, genera ID funcionando, ejemplo f750bf02-b729-4403-aded-e653ddef5385 Componente IngresoProducto.js"}
