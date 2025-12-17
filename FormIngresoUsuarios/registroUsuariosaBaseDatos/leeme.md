@@ -1,5 +1,12 @@
 ## 📝Aplicación para el ingreso de Datos generales de usuarios y su registro en Base de datos
 
+Resultado visible en imagenes 1,2,3 dentro de esta carpeta 🤓
+
+💭 Desarrollé una solución cliente-servidor para el registro y almacenamiento persistente de usuarios, implementando la configuración de infraestructura de red y seguridad hacia la base de datos (CORS, TCP/IP y SQL Logins). Mi objetivo es replicar una comunicación eficiente y segura entre la interfaz y el servidor de base de datos mediante un sistema full-stack usando tecnologías tradicionales, comunes en entornos operativos.
+
+A menudo se subestima la complejidad de conectar capas de software que no hablan el mismo idioma. En este ejercicio, mi meta no fue solo programar, sino configurar el 'diálogo' entre el cliente y el servidor, garantizando una conexión estable y ordenada, donde la información viaja con fluidez y llega a su destino de forma íntegra. 💭
+
+
 Tecnologías Usadas:
 * HTML, CSS, JS, PHP
 * conexión con SQL server vía XAMPP, usuario SQL
@@ -33,5 +40,3 @@ Tecnologías Usadas:
   
   5- al ejecutar la aplicación y de salir error de conexión, validar campos de conexión y de ser correctos y permanecer el error, crear usuario de autenticación windows y SQL (mixta)
 
-
-* 
