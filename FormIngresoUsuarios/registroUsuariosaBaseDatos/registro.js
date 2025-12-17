@@ -28,6 +28,10 @@ async function generarIngreso() {
             
             // Tu lógica original para mostrar en el div
             document.getElementById('muestranombre').textContent = datos.nombre;
+            document.getElementById('muestraedad').textContent = datos.edad;
+            document.getElementById('muestragenero').textContent = datos.genero;
+            document.getElementById('muestrapais').textContent = datos.pais;
+            document.getElementById('muestraprofesion').textContent = datos.profesion;
             document.getElementById("flowcontrol").style.display = 'block';
         } else {
             alert("Error al guardar: " + resultado.message);
