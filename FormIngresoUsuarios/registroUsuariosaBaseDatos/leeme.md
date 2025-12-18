@@ -1,4 +1,4 @@
-## 📝Aplicación para el ingreso de Datos generales de usuarios y su registro en Base de datos
+## 📝desarollo -> Aplicación para el ingreso de Datos generales de usuarios y su registro en Base de datos
 
 Resultado visible en imagenes 1,2,3 dentro de esta carpeta 🤓
 
@@ -11,7 +11,7 @@ Tecnologías Usadas:
 * HTML, CSS, JS, PHP
 * conexión con SQL server vía XAMPP, usuario SQL
 
-### Configuraciones necesarias:
+### Configuraciones necesarias para test durante el desarrollo:
   #### Servidor Web
   * para contar con un servidor local descargar xampp, validar versión de php y arquitectura (consola xampp -> apache -> admin -> phpinfo)
     esto permitirá enviar la info capturada vía javascript al servidor de base de datos MSSQL mediante el servidor web XAMPP
