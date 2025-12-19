@@ -1,5 +1,9 @@
 ## 📝Aplicación para el ingreso de Datos generales de usuarios y su registro en Base de datos
 
+Desarrollé esta aplicación junto con una arquitectura de red TCP/IP e infraestructura virtualizada, que permite el ingreso de información y su almacenamiento. 
+-> El servicio se encuentra alojado en IIS con conexión a SQL server, ambos servidores en diferentes subredes.
+-> El direccionamiento lógico es realizado mediante DHCP. Este servicio y el de DNS son dados por otro equipo servidor donde levanté estos servicios.
+
 Tecnologías Usadas:
 * HTML, CSS, JS, PHP
 * Hyper-V, windows servers, redes, MSSQL, IIS, usuario para BD, autenticación mixta, configuración TCP/IP y puertos, DNS, DHCP, Firewall
